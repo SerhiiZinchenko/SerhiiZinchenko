@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-End Developer
 -------------------
 
-I have been doing adaptive website layout for 1.8 years with html, css, js, vue.js. At the moment I'm looking for a job.
+I have been doing adaptive website layout for 2 years with html, css, js. At the moment I'm looking for a job.
 
 * 🌍  I'm based in Ukraine, Zaporizhzhia
 * 🖥️  See my portfolio at [Website](http://www.linkedin.com/in/serhii-zinchenko-zp/)
